@@ -264,7 +264,7 @@ New features and improvements are added continuously.
 
 #  Contributors
 
-- **Mohammad Ataf** — Backend & Authentication
+- **RAUSHAN KUMAR PRINCE** — Backend & Authentication
 - **UMAR RAFIQ** — Maps & Route Search
 
 ---
